@@ -1,13 +1,15 @@
 # Site settings
-title: Butane Jekyll Theme
+title: Your site
 description: >
-    This is an example of the Butane Jekyll Theme created by Alex Carpenter
-author: Alex Carpenter
-email: youemail@gmail.com
-baseurl: "/butane-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "http://alexcarpenter.me" # the base hostname & protocol for your site
-twitter_username: hybrid_alex
-github_username:  alexcarpenter
+    Your description
+author: Your name
+email: your@e.mail
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourname.github.io" # the base hostname & protocol for your site
+twitter_username: YourTwitter
+github_username:  YourGitHub
+
+disqus_shortname: YourDisqusShortname
 
 # Build settings
 include: [_pages]
