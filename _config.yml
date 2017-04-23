@@ -26,3 +26,6 @@ gems:
 # AMP Settings
 # ampdir: amp/
 # enable_amp: true
+
+# Google Analytics
+# google_analytics: UA-XXXXXXXX-X
